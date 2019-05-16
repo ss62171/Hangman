@@ -1,4 +1,4 @@
-# Basic Hangman script
+## Basic Hangman script
 
 This is a script to be run in browser console to simulate hangman game
 
